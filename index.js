@@ -1,4 +1,5 @@
 exports.Client = require('./lib/client');
+exports.ClientOptions = require('./lib/client-options');
 exports.Connection = require('./lib/connection');
 exports.types = require('./lib/types');
 exports.errors = require('./lib/errors');
