@@ -1,6 +1,6 @@
 {
   "name": "cassandra-driver",
-  "version": "3.0.3-pre",
+  "version": "3.0.3-pre1",
   "description": "DataStax Node.js Driver for Apache Cassandra",
   "author": "DataStax",
   "keywords": [
@@ -21,6 +21,7 @@
     }
   ],
   "dependencies": {
+    "hexy": "^0.2.7",
     "long": "^2.2.0"
   },
   "devDependencies": {
